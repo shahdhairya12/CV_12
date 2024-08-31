@@ -1,0 +1,129 @@
+.project .html {
+  margin-right: 7.2px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 12px;
+  color: #ABB2BF;
+}
+.project .scss {
+  margin-right: 7.2px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 12px;
+  color: #ABB2BF;
+}
+.project .python {
+  margin-right: 7.8px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 12px;
+  color: #ABB2BF;
+}
+.project .flask {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 12px;
+  color: #ABB2BF;
+}
+.project .frame-59 {
+  margin: 0 7.5px 4px 7.5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.project .line-2 {
+  background: #ABB2BF;
+  margin-bottom: 5.5px;
+  width: 229px;
+  height: 0px;
+}
+.project .chert-nodes {
+  margin-right: 8px;
+  width: 109px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 12px;
+  color: var(--white, #FFFFFF);
+}
+.project .chertnodes-ru {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 12px;
+  color: var(--white, #FFFFFF);
+}
+.project .frame-591 {
+  margin: 0 7.9px 6px 7.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 15.4px);
+  box-sizing: border-box;
+}
+.project .line-1 {
+  background: #ABB2BF;
+  margin-bottom: 7.5px;
+  width: 229px;
+  height: 0px;
+}
+.project .minecraft-servers-hosting {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 12px;
+  color: #ABB2BF;
+}
+.project .frame-601 {
+  margin-bottom: 8px;
+  display: flex;
+  box-sizing: border-box;
+}
+.project .vector {
+  width: 7.9px;
+  height: 7.5px;
+}
+.project .github {
+  margin: 4.3px 5.3px 4.3px 0;
+  display: flex;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.project .chertnodeswebsite {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 12px;
+  color: #ABB2BF;
+}
+.project .frame-60 {
+  margin: 0 1.9px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.project .frame-602 {
+  margin: 0 7.5px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.project {
+  border: 0.5px solid var(--gray, #ABB2BF);
+  background: var(--background, #282C33);
+  display: flex;
+  flex-direction: column;
+  padding: 3.5px 0 7.5px 0;
+  box-sizing: border-box;
+}

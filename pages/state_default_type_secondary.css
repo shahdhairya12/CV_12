@@ -1,0 +1,13 @@
+.state-default-type-secondary .demo {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.state-default-type-secondary {
+  border: 1px solid var(--gray, #ABB2BF);
+  display: flex;
+  padding: 7px 15.8px 7px 15px;
+  box-sizing: border-box;
+}

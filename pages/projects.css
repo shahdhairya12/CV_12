@@ -1,0 +1,2145 @@
+.projects .union {
+  width: 16px;
+  height: 16px;
+}
+.projects .logo {
+  margin: 2.5px 8px 2.5px 0;
+  display: flex;
+  width: 16px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.projects .dhairya {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 700;
+  font-size: 16px;
+  color: var(--white, #FFFFFF);
+}
+.projects .frame-40 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.projects .container-2 {
+  margin-right: 0.4px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--primary, #C778DD);
+}
+.projects .home {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--white, #FFFFFF);
+}
+.projects .header-link {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.projects .container-3 {
+  margin-right: 0.4px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--primary, #C778DD);
+}
+.projects .home-1 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .header-link-1 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.projects .container-4 {
+  margin-right: 0.4px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--primary, #C778DD);
+}
+.projects .home-2 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .header-link-2 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.projects .container-5 {
+  margin-right: 0.4px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--primary, #C778DD);
+}
+.projects .home-3 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .header-link-3 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.projects .en {
+  margin-right: 4.8px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 600;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .line-14 {
+  background: #ABB2BF;
+  transform: rotate(45deg);
+  margin-bottom: 0px;
+  width: 7.1px;
+  height: 0px;
+}
+.projects .line-15 {
+  background: #ABB2BF;
+  transform: rotate(-45deg);
+  margin-top: 0px;
+  width: 7.1px;
+  height: 0px;
+}
+.projects .group-58 {
+  margin: 8px 0 11px 0;
+  display: flex;
+  flex-direction: row;
+  column-gap: 0px;
+  width: 10px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.projects .language-switcher {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.projects .frame-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 443px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.projects .header {
+  background: var(--background, #282C33);
+  margin: 0 10px 53px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 32px 0px 8px 0;
+  width: 1024px;
+  box-sizing: border-box;
+}
+.projects .container-1 {
+  margin-right: 0.8px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 600;
+  font-size: 32px;
+  color: var(--primary, #C778DD);
+}
+.projects .projects-1 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 600;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.projects .frame-47 {
+  margin: 0 8.8px 14px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .list-of-my-projects {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.projects .title {
+  margin: 0 851.6px 65px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .ellipse-232 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-212 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-222 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-202 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-3612 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .frame-222 {
+  margin-bottom: 11px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 109px;
+  box-sizing: border-box;
+}
+.projects .ellipse-252 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-262 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-242 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-198 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-3611 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .frame-232 {
+  margin-bottom: 11px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 109px;
+  box-sizing: border-box;
+}
+.projects .ellipse-292 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-302 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-282 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-199 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-3610 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .frame-242 {
+  margin-bottom: 11px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 109px;
+  box-sizing: border-box;
+}
+.projects .ellipse-334 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-344 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-324 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-1910 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-3613 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .frame-262 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 109px;
+  box-sizing: border-box;
+}
+.projects .frame-28 {
+  margin: 145px 93px 728px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 109px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.projects .container-6 {
+  margin-right: 0.8px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 32px;
+  color: var(--primary, #C778DD);
+}
+.projects .small-projects-1 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 32px;
+  color: var(--white, #FFFFFF);
+}
+.projects .h-21 {
+  margin-bottom: 48px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .rectangle-22 {
+  border-bottom: 1px solid var(--gray, #ABB2BF);
+  background: url('../assets/images/rectangle_222.png') 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 330.6px;
+  height: 201px;
+}
+.projects .html {
+  margin-right: 8.6px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .scss {
+  margin-right: 8.6px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .python {
+  margin-right: 8.4px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .flask {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .frame-39 {
+  margin: 0 8px 8px 8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .chert-nodes {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--white, #FFFFFF);
+}
+.projects .minecraft-servers-hosting {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .live {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--white, #FFFFFF);
+}
+.projects .frame-6 {
+  border: 1px solid var(--primary, #C778DD);
+  margin-right: 16px;
+  display: flex;
+  padding: 7px 15.2px 7px 15px;
+  box-sizing: border-box;
+}
+.projects .demo {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .frame-7 {
+  border: 1px solid var(--gray, #ABB2BF);
+  display: flex;
+  padding: 7px 15.6px 7px 15px;
+  box-sizing: border-box;
+}
+.projects .frame-51 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .frame-3 {
+  border-top: 1px solid var(--gray, #ABB2BF);
+  display: flex;
+  flex-direction: column;
+  padding: 15px 0 16px 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .project {
+  border: 1px solid var(--gray, #ABB2BF);
+  margin-bottom: 31px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.projects .rectangle-222 {
+  border-bottom: 1px solid var(--gray, #ABB2BF);
+  background: url('../assets/images/rectangle_223.jpeg') 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 330.6px;
+  height: 201px;
+}
+.projects .html-2 {
+  margin-right: 8.2px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .scss-2 {
+  margin-right: 8.8px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .python-2 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .frame-392 {
+  margin: 0 8px 8px 8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .chert-nodes-2 {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--white, #FFFFFF);
+}
+.projects .minecraft-servers-hosting-2 {
+  margin-bottom: 16px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .live-1 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--white, #FFFFFF);
+}
+.projects .frame-61 {
+  border: 1px solid var(--primary, #C778DD);
+  display: flex;
+  padding: 7px 15.2px 7px 15px;
+  box-sizing: border-box;
+}
+.projects .frame-53 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.projects .frame-32 {
+  border-top: 1px solid var(--gray, #ABB2BF);
+  display: flex;
+  flex-direction: column;
+  padding: 15px 17px 16px 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .group-4 {
+  border: 1px solid var(--gray, #ABB2BF);
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.projects .rectangle-221 {
+  border-bottom: 1px solid var(--gray, #ABB2BF);
+  background: url('../assets/images/rectangle_224.jpeg') 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 330.6px;
+  height: 201px;
+}
+.projects .html-1 {
+  margin-right: 8px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .scss-1 {
+  margin-right: 8.8px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .python-1 {
+  margin-right: 8px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .flask-1 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .frame-391 {
+  margin: 0 19.4px 8px 8px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .chert-nodes-1 {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--white, #FFFFFF);
+}
+.projects .minecraft-servers-hosting-1 {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .demo-1 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .frame-71 {
+  border: 1px solid var(--gray, #ABB2BF);
+  display: flex;
+  padding: 7px 15.6px 7px 15px;
+  box-sizing: border-box;
+}
+.projects .frame-52 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.projects .frame-31 {
+  border-top: 1px solid var(--gray, #ABB2BF);
+  display: flex;
+  flex-direction: column;
+  padding: 15px 0 16px 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .group-3 {
+  border: 1px solid var(--gray, #ABB2BF);
+  margin-bottom: 31px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.projects .frame-5 {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .rectangle-223 {
+  border-bottom: 1px solid var(--gray, #ABB2BF);
+  background: url('../assets/images/rectangle_221.jpeg') 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 330.6px;
+  height: 201px;
+}
+.projects .html-3 {
+  margin-right: 8.6px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .scss-3 {
+  margin-right: 8.2px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .python-3 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .frame-393 {
+  margin: 0 8px 8px 8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .chert-nodes-3 {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--white, #FFFFFF);
+}
+.projects .minecraft-servers-hosting-3 {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .live-2 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--white, #FFFFFF);
+}
+.projects .frame-62 {
+  border: 1px solid var(--primary, #C778DD);
+  display: flex;
+  padding: 7px 15.2px 7px 15px;
+  box-sizing: border-box;
+}
+.projects .frame-54 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.projects .frame-33 {
+  border-top: 1px solid var(--gray, #ABB2BF);
+  display: flex;
+  flex-direction: column;
+  padding: 15px 0 16px 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .project-1 {
+  border: 1px solid var(--gray, #ABB2BF);
+  margin-right: 16px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.projects .rectangle-224 {
+  border-bottom: 1px solid var(--gray, #ABB2BF);
+  background: url('../assets/images/rectangle_22.png') 50% / cover no-repeat;
+  margin: 0 1.4px 8px 0;
+  width: 330.6px;
+  height: 201px;
+}
+.projects .html-4 {
+  margin-right: 8.2px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .scss-4 {
+  margin-right: 8.8px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .python-4 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .frame-394 {
+  margin: 0 8px 8px 8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .chert-nodes-4 {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--white, #FFFFFF);
+}
+.projects .minecraft-servers-hosting-4 {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .live-3 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--white, #FFFFFF);
+}
+.projects .frame-63 {
+  border: 1px solid var(--primary, #C778DD);
+  display: flex;
+  padding: 7px 15px;
+  box-sizing: border-box;
+}
+.projects .frame-55 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.projects .frame-34 {
+  border-top: 1px solid var(--gray, #ABB2BF);
+  display: flex;
+  flex-direction: column;
+  padding: 15px 0 16px 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .project-2 {
+  border: 1px solid var(--gray, #ABB2BF);
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.projects .frame-48 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .frame-472 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .complete {
+  margin: 3px 103.3px 0 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.projects .rectangle-251 {
+  border: 1px solid var(--gray, #ABB2BF);
+  margin-bottom: 767px;
+  width: 155px;
+  height: 155px;
+}
+.projects .container-1 {
+  margin: 0 0 43px 46px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .rectangle-25 {
+  border: 1px solid var(--gray, #ABB2BF);
+  margin-bottom: 14px;
+  align-self: flex-start;
+  width: 155px;
+  height: 155px;
+}
+.projects .ellipse-23 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-21 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-22 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-20 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-363 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .frame-22 {
+  margin-bottom: 20.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 103px;
+  box-sizing: border-box;
+}
+.projects .ellipse-25 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-26 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-24 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-19 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-362 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .frame-23 {
+  margin-bottom: 20.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 103px;
+  box-sizing: border-box;
+}
+.projects .ellipse-29 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-30 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-28 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-191 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-361 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .frame-24 {
+  margin-bottom: 20.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 103px;
+  box-sizing: border-box;
+}
+.projects .ellipse-33 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-34 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-32 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-192 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-36 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .frame-25 {
+  margin-bottom: 20.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 103px;
+  box-sizing: border-box;
+}
+.projects .ellipse-331 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-341 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-321 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-193 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-364 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .frame-26 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 103px;
+  box-sizing: border-box;
+}
+.projects .frame-31 {
+  margin: 0 64px 308px 64px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-end;
+  width: 103px;
+  box-sizing: border-box;
+}
+.projects .ellipse-231 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-211 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-221 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-201 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-368 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .frame-221 {
+  margin-bottom: 20.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 103px;
+  box-sizing: border-box;
+}
+.projects .ellipse-251 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-261 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-241 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-194 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-367 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .frame-231 {
+  margin-bottom: 20.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 103px;
+  box-sizing: border-box;
+}
+.projects .ellipse-291 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-301 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-281 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-195 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-366 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .frame-241 {
+  margin-bottom: 20.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 103px;
+  box-sizing: border-box;
+}
+.projects .ellipse-332 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-342 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-322 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-196 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-365 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .frame-251 {
+  margin-bottom: 20.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 103px;
+  box-sizing: border-box;
+}
+.projects .ellipse-333 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-343 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-323 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-197 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .ellipse-369 {
+  border-radius: 2px;
+  background: var(--gray, #ABB2BF);
+  width: 4px;
+  height: 4px;
+}
+.projects .frame-261 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 103px;
+  box-sizing: border-box;
+}
+.projects .frame-36 {
+  margin: 0 26px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  width: 103px;
+  box-sizing: border-box;
+}
+.projects .background {
+  margin-bottom: 367px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .line-11 {
+  background: #ABB2BF;
+  margin-bottom: 31px;
+  width: 1366px;
+  height: 0px;
+}
+.projects .web-designer-and-front-end-developer {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--white, #FFFFFF);
+}
+.projects .frame-243 {
+  margin-bottom: 51px;
+  display: flex;
+  box-sizing: border-box;
+}
+.projects .media-1 {
+  margin-bottom: 18px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--white, #FFFFFF);
+}
+.projects .vector-3 {
+  width: 21px;
+  height: 20px;
+}
+.projects .github-1 {
+  margin: 0 17px 3px 0;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.projects .vector-4 {
+  width: 25px;
+  height: 20px;
+}
+.projects .discord {
+  margin-top: 3px;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.projects .group-22 {
+  margin: 0 4px 0 5px;
+  display: flex;
+  flex-direction: row;
+  width: 72px;
+  box-sizing: border-box;
+}
+.projects .frame-233 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.projects .frame-49 {
+  margin-bottom: 54px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1025px;
+  box-sizing: border-box;
+}
+.projects .copyright-2022-made-by-dhairya {
+  margin-right: 1.8px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .frame-491 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1025px;
+  box-sizing: border-box;
+}
+.projects .footer {
+  margin: 0 87px 0 77px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1366px;
+  box-sizing: border-box;
+}
+.projects .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1530px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.projects .container {
+  margin-right: 0.8px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 32px;
+  color: var(--primary, #C778DD);
+}
+.projects .small-projects {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 32px;
+  color: var(--white, #FFFFFF);
+}
+.projects .h-2 {
+  margin-bottom: 48px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .html-5 {
+  margin-right: 8px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .scss-5 {
+  margin-right: 8.8px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .python-5 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .frame-395 {
+  margin: 0 8px 8px 8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .chert-nodes-5 {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--white, #FFFFFF);
+}
+.projects .minecraft-servers-hosting-5 {
+  margin-bottom: 16px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .live-4 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--white, #FFFFFF);
+}
+.projects .frame-64 {
+  border: 1px solid var(--primary, #C778DD);
+  display: flex;
+  padding: 7px 15px;
+  box-sizing: border-box;
+}
+.projects .frame-56 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.projects .frame-35 {
+  border-top: 1px solid var(--gray, #ABB2BF);
+  display: flex;
+  flex-direction: column;
+  padding: 15px 27px 16px 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .project-3 {
+  border: 1px solid var(--gray, #ABB2BF);
+  display: flex;
+  flex-direction: column;
+  padding-top: 8px;
+  box-sizing: border-box;
+}
+.projects .html-6 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .scss-6 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .python-6 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .frame-396 {
+  margin: 0 8px 8px 8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  column-gap: 8.2px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .chert-nodes-6 {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--white, #FFFFFF);
+}
+.projects .minecraft-servers-hosting-6 {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .live-5 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--white, #FFFFFF);
+}
+.projects .frame-65 {
+  border: 1px solid var(--primary, #C778DD);
+  display: flex;
+  padding: 7px 15px;
+  box-sizing: border-box;
+}
+.projects .frame-57 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.projects .frame-36 {
+  border-top: 1px solid var(--gray, #ABB2BF);
+  display: flex;
+  flex-direction: column;
+  padding: 15px 0 16px 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .project-4 {
+  border: 1px solid var(--gray, #ABB2BF);
+  margin-bottom: 21px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 8px;
+  width: 331px;
+  box-sizing: border-box;
+}
+.projects .html-7 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .frame-397 {
+  margin: 0 8px 8px 8px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.projects .chert-nodes-7 {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--white, #FFFFFF);
+}
+.projects .minecraft-servers-hosting-7 {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .live-6 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--white, #FFFFFF);
+}
+.projects .frame-66 {
+  border: 1px solid var(--primary, #C778DD);
+  display: flex;
+  padding: 7px 15.6px 7px 15px;
+  box-sizing: border-box;
+}
+.projects .frame-58 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.projects .frame-37 {
+  border-top: 1px solid var(--gray, #ABB2BF);
+  display: flex;
+  flex-direction: column;
+  padding: 15px 0 16px 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .project-5 {
+  border: 1px solid var(--gray, #ABB2BF);
+  display: flex;
+  flex-direction: column;
+  padding-top: 8px;
+  width: 331px;
+  box-sizing: border-box;
+}
+.projects .frame-471 {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .html-8 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .frame-398 {
+  margin: 0 8px 8px 8px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.projects .chert-nodes-8 {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--white, #FFFFFF);
+}
+.projects .minecraft-servers-hosting-8 {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .live-7 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--white, #FFFFFF);
+}
+.projects .frame-67 {
+  border: 1px solid var(--primary, #C778DD);
+  display: flex;
+  padding: 7px 15.6px 7px 15px;
+  box-sizing: border-box;
+}
+.projects .frame-59 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.projects .frame-38 {
+  border-top: 1px solid var(--gray, #ABB2BF);
+  display: flex;
+  flex-direction: column;
+  padding: 15px 0 16px 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .project-6 {
+  border: 1px solid var(--gray, #ABB2BF);
+  display: flex;
+  flex-direction: column;
+  padding-top: 8px;
+  width: 331px;
+  box-sizing: border-box;
+}
+.projects .html-9 {
+  margin-right: 8.6px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .scss-7 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .frame-399 {
+  margin: 0 8px 8px 8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .chert-nodes-9 {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--white, #FFFFFF);
+}
+.projects .minecraft-servers-hosting-9 {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .live-8 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--white, #FFFFFF);
+}
+.projects .frame-68 {
+  border: 1px solid var(--primary, #C778DD);
+  display: flex;
+  padding: 7px 15.2px 7px 15px;
+  box-sizing: border-box;
+}
+.projects .frame-510 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.projects .frame-39 {
+  border-top: 1px solid var(--gray, #ABB2BF);
+  display: flex;
+  flex-direction: column;
+  padding: 15px 0 16px 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .project-7 {
+  border: 1px solid var(--gray, #ABB2BF);
+  margin-bottom: 52px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 8px;
+  width: 331px;
+  box-sizing: border-box;
+}
+.projects .html-10 {
+  margin-right: 8.2px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .scss-8 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .frame-3910 {
+  margin: 0 8px 8px 8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .chert-nodes-10 {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--white, #FFFFFF);
+}
+.projects .minecraft-servers-hosting-10 {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .live-9 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--white, #FFFFFF);
+}
+.projects .frame-69 {
+  border: 1px solid var(--primary, #C778DD);
+  display: flex;
+  padding: 7px 15px;
+  box-sizing: border-box;
+}
+.projects .frame-511 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.projects .frame-310 {
+  border-top: 1px solid var(--gray, #ABB2BF);
+  display: flex;
+  flex-direction: column;
+  padding: 15px 0 16px 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .project-8 {
+  border: 1px solid var(--gray, #ABB2BF);
+  margin-bottom: 52px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 8px;
+  width: 331px;
+  box-sizing: border-box;
+}
+.projects .frame-50 {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .html-12 {
+  margin-right: 8.4px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .scss-9 {
+  margin-right: 8px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .python-7 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .frame-3912 {
+  margin: 0 8px 8px 8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .chert-nodes-12 {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--white, #FFFFFF);
+}
+.projects .minecraft-servers-hosting-12 {
+  margin-bottom: 16px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .live-11 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--white, #FFFFFF);
+}
+.projects .frame-611 {
+  border: 1px solid var(--primary, #C778DD);
+  display: flex;
+  padding: 7px 15.2px 7px 15px;
+  box-sizing: border-box;
+}
+.projects .frame-513 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.projects .frame-312 {
+  border-top: 1px solid var(--gray, #ABB2BF);
+  display: flex;
+  flex-direction: column;
+  padding: 15px 17.4px 16px 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .project-10 {
+  border: 1px solid var(--gray, #ABB2BF);
+  margin: 0 16px 21px 0;
+  display: flex;
+  flex-direction: column;
+  padding-top: 8px;
+  box-sizing: border-box;
+}
+.projects .html-11 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .frame-3911 {
+  margin: 0 8px 8px 8px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.projects .chert-nodes-11 {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--white, #FFFFFF);
+}
+.projects .minecraft-servers-hosting-11 {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.projects .live-10 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--white, #FFFFFF);
+}
+.projects .frame-610 {
+  border: 1px solid var(--primary, #C778DD);
+  display: flex;
+  padding: 7px 15.6px 7px 15px;
+  box-sizing: border-box;
+}
+.projects .frame-512 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.projects .frame-311 {
+  border-top: 1px solid var(--gray, #ABB2BF);
+  display: flex;
+  flex-direction: column;
+  padding: 15px 0 16px 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .project-9 {
+  border: 1px solid var(--gray, #ABB2BF);
+  display: flex;
+  flex-direction: column;
+  padding-top: 8px;
+  width: 331px;
+  box-sizing: border-box;
+}
+.projects .frame-51 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .frame-481 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.projects .small {
+  position: absolute;
+  left: 50%;
+  bottom: 395px;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.projects .line-10-stroke {
+  margin: 0 11.5px 14px 10.5px;
+  width: 191px;
+  height: 1px;
+}
+.projects .vector {
+  width: 21px;
+  height: 20px;
+}
+.projects .github {
+  margin: 0 2px 18px 0;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.projects .vector-1 {
+  width: 23px;
+  height: 23px;
+}
+.projects .dribble {
+  margin-bottom: 19px;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.projects .vector-2 {
+  width: 14px;
+  height: 20px;
+}
+.projects .figma {
+  margin: 0 5px 0 4px;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.projects .frame-16 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 32px;
+  box-sizing: border-box;
+}
+.projects .media {
+  background: var(--background, #282C33);
+  position: absolute;
+  left: 17px;
+  top: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 4px 6px 5px;
+  box-sizing: border-box;
+}
+.projects {
+  background: var(--background, #282C33);
+  display: flex;
+  padding-bottom: 32px;
+  width: 1366px;
+  box-sizing: border-box;
+}

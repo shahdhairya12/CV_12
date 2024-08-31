@@ -1,0 +1,54 @@
+.colors .rectangle-26 {
+  background: #282C33;
+  margin-left: 0px;
+  width: 135px;
+  height: 135.1px;
+}
+.colors .rectangle-27 {
+  background: #E06B74;
+  margin-left: 0px;
+  width: 135px;
+  height: 135.1px;
+}
+.colors .rectangle-28 {
+  background: #98C379;
+  margin-left: 0px;
+  width: 135px;
+  height: 135.1px;
+}
+.colors .rectangle-29 {
+  background: #E5C07A;
+  margin-right: 0px;
+  width: 135px;
+  height: 135.1px;
+}
+.colors .rectangle-30 {
+  background: #62AEEF;
+  margin-right: 0px;
+  width: 135px;
+  height: 135.1px;
+}
+.colors .rectangle-31 {
+  background: #C778DD;
+  margin-right: 0px;
+  width: 135px;
+  height: 135.1px;
+}
+.colors .rectangle-32 {
+  background: #55B6C2;
+  margin-right: 0px;
+  width: 135px;
+  height: 135.1px;
+}
+.colors .rectangle-33 {
+  background: #ABB2BF;
+  margin-right: 0px;
+  width: 135px;
+  height: 135.1px;
+}
+.colors {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}

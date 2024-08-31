@@ -1,0 +1,18 @@
+.state-hover .name {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--white, #FFFFFF);
+}
+.state-hover .frame-44 {
+  background: var(--background, #282C33);
+  display: flex;
+  padding: 0 4.6px 0 4px;
+  box-sizing: border-box;
+}
+.state-hover {
+  border: 1px solid var(--white, #FFFFFF);
+  padding: 0 8px 24px 8px;
+  box-sizing: border-box;
+}

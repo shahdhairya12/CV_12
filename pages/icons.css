@@ -1,0 +1,150 @@
+.icons .vector-10 {
+  width: 19px;
+  height: 25px;
+}
+.icons .landmark {
+  margin-right: 19px;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.icons .vector-5 {
+  width: 21px;
+  height: 20px;
+}
+.icons .github {
+  margin: 3px 18px 2px 0;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.icons .vector-6 {
+  width: 23px;
+  height: 19px;
+}
+.icons .twitter {
+  margin: 4px 17px 2px 0;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.icons .vector-7 {
+  width: 24px;
+  height: 24px;
+}
+.icons .linkedin {
+  margin: 1px 15px 0 0;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.icons .vector-8 {
+  width: 25px;
+  height: 20px;
+}
+.icons .discord {
+  margin: 3px 16px 2px 0;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.icons .vector-9 {
+  width: 23px;
+  height: 23px;
+}
+.icons .telegram {
+  margin: 1px 18px 1px 0;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.icons .vector {
+  width: 23px;
+  height: 17px;
+}
+.icons .email {
+  margin: 4px 21px 4px 0;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.icons .vector-1 {
+  width: 14px;
+  height: 20px;
+}
+.icons .figma {
+  margin: 3px 22px 2px 0;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.icons .vector-2 {
+  width: 23px;
+  height: 23px;
+}
+.icons .dribble {
+  margin: 1px 17px 1px 0;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.icons .vector-3 {
+  width: 22px;
+  height: 16px;
+}
+.icons .card {
+  margin: 5px 21px 4px 0;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.icons .vector-4 {
+  width: 17px;
+  height: 24px;
+}
+.icons .bitcoin {
+  margin: 1px 23px 0 0;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.icons .vector-12 {
+  width: 16px;
+  height: 18px;
+}
+.icons .play {
+  margin: 4px 22px 3px 0;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.icons .vector-11 {
+  width: 20px;
+  height: 20px;
+}
+.icons .calendar {
+  margin: 3px 0 2px 0;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.icons {
+  background: var(--background, #282C33);
+  display: flex;
+  flex-direction: row;
+  padding: 11px 14px 12px 15px;
+  box-sizing: border-box;
+}

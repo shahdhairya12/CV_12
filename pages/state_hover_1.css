@@ -1,0 +1,20 @@
+.state-hover-1 .container {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--primary, #C778DD);
+}
+.state-hover-1 .home {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--white, #FFFFFF);
+}
+.state-hover {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-sizing: border-box;
+}

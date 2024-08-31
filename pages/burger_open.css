@@ -1,0 +1,222 @@
+.burger-open .union {
+  width: 16px;
+  height: 16px;
+}
+.burger-open .logo {
+  margin: 2.5px 8px 2.5px 0;
+  display: flex;
+  width: 16px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.burger-open .dhairya {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 700;
+  font-size: 16px;
+  color: var(--white, #FFFFFF);
+}
+.burger-open .frame-40 {
+  margin-top: 0px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.burger-open .rectangle-29 {
+  background: #D9D9D9;
+  position: relative;
+  width: 1px;
+  height: 1px;
+}
+.burger-open .rectangle-28 {
+  background: #D9D9D9;
+  transform: rotate(-45deg);
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 24px;
+  height: 2px;
+}
+.burger-open .rectangle-30 {
+  background: #D9D9D9;
+  transform: rotate(45deg);
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 24px;
+  height: 2px;
+}
+.burger-open .frame-60 {
+  position: relative;
+  margin-bottom: 2.6px;
+  display: flex;
+  padding: 8px 9.4px 9.4px 8.4px;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.burger-open .header {
+  background: var(--background, #282C33);
+  margin-bottom: 47px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 19px 18.6px 8px 16px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.burger-open .container-1 {
+  margin-right: 0.8px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 32px;
+  color: var(--primary, #C778DD);
+}
+.burger-open .home {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 32px;
+  color: var(--white, #FFFFFF);
+}
+.burger-open .nav-link-1 {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.burger-open .container-2 {
+  margin-right: 0.8px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 32px;
+  color: var(--primary, #C778DD);
+}
+.burger-open .works {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 32px;
+  color: var(--gray, #ABB2BF);
+}
+.burger-open .nav-link-2 {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.burger-open .container-3 {
+  margin-right: 0.8px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 32px;
+  color: var(--primary, #C778DD);
+}
+.burger-open .about-me {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 32px;
+  color: var(--gray, #ABB2BF);
+}
+.burger-open .nav-link-3 {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.burger-open .container {
+  margin-right: 0.8px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 32px;
+  color: var(--primary, #C778DD);
+}
+.burger-open .contacts {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 32px;
+  color: var(--gray, #ABB2BF);
+}
+.burger-open .nav-link {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.burger-open .en {
+  margin-right: 4.6px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 600;
+  font-size: 32px;
+  color: var(--gray, #ABB2BF);
+}
+.burger-open .line-14 {
+  background: #ABB2BF;
+  transform: rotate(45deg);
+  margin-bottom: 0px;
+  width: 7.1px;
+  height: 0px;
+}
+.burger-open .line-15 {
+  background: #ABB2BF;
+  transform: rotate(-45deg);
+  margin-top: 0px;
+  width: 7.1px;
+  height: 0px;
+}
+.burger-open .group-58 {
+  margin: 18.5px 0 21.5px 0;
+  display: flex;
+  flex-direction: row;
+  column-gap: 0px;
+  width: 10px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.burger-open .language-switcher {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.burger-open .frame-1 {
+  margin: 0 16px 119px 16px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.burger-open .vector {
+  width: 42px;
+  height: 40px;
+}
+.burger-open .frame-16 {
+  margin-right: 150px;
+  display: flex;
+  align-self: center;
+  width: 64px;
+  height: 64px;
+  box-sizing: border-box;
+}
+.burger-open {
+  background: var(--background, #282C33);
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 48px;
+  box-sizing: border-box;
+}

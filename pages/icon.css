@@ -1,0 +1,10 @@
+.icon .union {
+  width: 288px;
+  height: 288px;
+}
+.icon {
+  background: var(--background, #282C33);
+  display: flex;
+  padding: 112px 0;
+  box-sizing: border-box;
+}

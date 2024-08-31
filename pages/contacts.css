@@ -1,0 +1,86 @@
+.contacts .name-3 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.contacts .frame-30 {
+  border: 1px solid var(--gray, #ABB2BF);
+  margin-right: 16px;
+  padding: 7px;
+  flex-grow: 1;
+  flex-basis: 244.5px;
+  box-sizing: border-box;
+}
+.contacts .name {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.contacts .frame-31 {
+  border: 1px solid var(--gray, #ABB2BF);
+  padding: 7px;
+  flex-grow: 1;
+  flex-basis: 244.5px;
+  box-sizing: border-box;
+}
+.contacts .frame-39 {
+  margin: 0 0px 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 0px);
+  box-sizing: border-box;
+}
+.contacts .name-1 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.contacts .frame-32 {
+  border: 1px solid var(--gray, #ABB2BF);
+  margin-bottom: 16px;
+  padding: 7px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.contacts .name-2 {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.contacts .frame-33 {
+  border: 1px solid var(--gray, #ABB2BF);
+  margin-bottom: 16px;
+  padding: 7px 7px 89px 7px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.contacts .live {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--white, #FFFFFF);
+}
+.contacts .button {
+  border: 1px solid var(--primary, #C778DD);
+  display: flex;
+  align-self: flex-start;
+  padding: 7px 15.6px 7px 15px;
+  box-sizing: border-box;
+}
+.contacts {
+  background: var(--background, #282C33);
+  display: flex;
+  flex-direction: column;
+  padding: 32px;
+  box-sizing: border-box;
+}

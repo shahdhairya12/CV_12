@@ -1,0 +1,38 @@
+.state-default-3 .en {
+  margin-right: 4.8px;
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 600;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.state-default-3 .line-14 {
+  background: #ABB2BF;
+  transform: rotate(45deg);
+  margin-bottom: 0px;
+  width: 7.1px;
+  height: 0px;
+}
+.state-default-3 .line-15 {
+  background: #ABB2BF;
+  transform: rotate(-45deg);
+  margin-top: 0px;
+  width: 7.1px;
+  height: 0px;
+}
+.state-default-3 .group-58 {
+  margin: 8px 0 11px 0;
+  display: flex;
+  flex-direction: row;
+  column-gap: 0px;
+  height: fit-content;
+  flex-grow: 1;
+  flex-basis: 10px;
+  box-sizing: border-box;
+}
+.state-default {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-sizing: border-box;
+}

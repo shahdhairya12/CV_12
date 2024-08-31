@@ -1,0 +1,13 @@
+.state-default-type-primary .live {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--white, #FFFFFF);
+}
+.state-default-type-primary {
+  border: 1px solid var(--primary, #C778DD);
+  display: flex;
+  padding: 7px 15.2px 7px 15px;
+  box-sizing: border-box;
+}

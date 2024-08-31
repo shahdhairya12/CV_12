@@ -1,0 +1,24 @@
+.state-default-1 .vector {
+  width: 23px;
+  height: 19px;
+}
+.state-default-1 .twitter {
+  margin: 1.5px 0 0.5px 0;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.state-default-1 .shahdhairya {
+  overflow-wrap: break-word;
+  font-family: 'Fira Code';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray, #ABB2BF);
+}
+.state-default {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
